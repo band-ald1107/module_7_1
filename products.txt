@@ -1,0 +1,2 @@
+Potato, 50.0, Vegetables
+Tomato, 20.5, Vegetables
